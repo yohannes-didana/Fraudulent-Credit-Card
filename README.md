@@ -2,7 +2,7 @@
 
 The data represents credit card transactions that occurred over two days in September 2013 by European cardholders.
 
-The dataset is credited to the Machine Learning Group at the Free University of Brussels (Université Libre de Bruxelles) and a suite of publications by Andrea Dal Pozzolo, et al. [The data can be found at: ] https://www.kaggle.com/mlg-ulb/creditcardfraud / https://raw.githubusercontent.com/jbrownlee/Datasets/master/creditcard.csv.zip
+The dataset is credited to the Machine Learning Group at the Free University of Brussels (Université Libre de Bruxelles) and a suite of publications by Andrea Dal Pozzolo, et al. [The data can be found at]: https://www.kaggle.com/mlg-ulb/creditcardfraud / https://raw.githubusercontent.com/jbrownlee/Datasets/master/creditcard.csv.zip
 
 All details of the cardholders have been anonymized via a principal component analysis (PCA) transform. Instead, a total of 28 principal components of these anonymized features is provided. In addition, the time in seconds between transactions is provided, as is the purchase amount (presumably in Euros).
 
